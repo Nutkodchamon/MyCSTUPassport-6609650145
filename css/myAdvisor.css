@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    text-align: center;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid palevioletred;
+    padding: 10px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu li {
+    margin: 10px;
+    
+}
